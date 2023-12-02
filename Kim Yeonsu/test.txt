@@ -1,1 +1,12 @@
 test
+
+code
+
+# TODO
+이거 기능 추가해야함..
+
+code
+code2
+code3
+
+브랜치 만들고(메인에서 만들면 됨)(메인의 복제본을 만든다는 의미) -> 작업(변경사항) -> git add .(source control) -> commit -> push -> pull request -> merge(조작가님)
